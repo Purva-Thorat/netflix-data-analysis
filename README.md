@@ -101,4 +101,4 @@ MIT License
 
 ---
 
-**Status:** ✅ Production-Ready | **Dashboard:** https://netflix-data-analysis.manus.space
+**Status:** ✅ Production-Ready | **Dashboard:** https://netflixdash-qhvxeycx.manus.space/?manus_scraper=1
