@@ -84,7 +84,7 @@ pnpm start
 
 ## 📊 Dashboard
 
-**Live:** https://netflix-data-analysis.manus.space
+**Live:** https://netflixdash-qhvxeycx.manus.space/?manus_scraper=1
 
 - 8+ interactive visualizations
 - Netflix branding integration
